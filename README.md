@@ -3,4 +3,8 @@
     
 </p>
 
-## Hi there 👋
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,discordjs,discord,vscode,windows" />
+  </a>
+</p>
